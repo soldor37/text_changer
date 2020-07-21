@@ -1,0 +1,7 @@
+﻿  Algorithm.cpp
+  Interface.cpp
+  Создание кода...
+d:\users\георгий\desktop\4 курс\друзья\лабораторные работы\lab1\лабораторная 1 лубенец копелев\text_changer\text_changer\algorithm.cpp(122): warning C4715: ValidateValue: значение возвращается не при всех путях выполнения
+d:\users\георгий\desktop\4 курс\друзья\лабораторные работы\lab1\лабораторная 1 лубенец копелев\text_changer\text_changer\algorithm.cpp(146): warning C4715: ValidateString: значение возвращается не при всех путях выполнения
+d:\users\георгий\desktop\4 курс\друзья\лабораторные работы\lab1\лабораторная 1 лубенец копелев\text_changer\text_changer\algorithm.cpp(289): warning C4715: SData: значение возвращается не при всех путях выполнения
+  text_changer.vcxproj -> D:\Users\Георгий\Desktop\4 курс\Друзья\Лабораторные работы\lab1\Лабораторная 1 Лубенец Копелев\text_changer\x64\Debug\text_changer.exe
